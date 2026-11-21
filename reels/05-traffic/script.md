@@ -35,7 +35,8 @@
 ## Звук
 - Голос: −15,5 LUFS (компрессия 3:1 + усиление, тайминги не сдвинуты).
 - SFX (ElevenLabs Sound Effects v3): `bass_horn`, `ticking`, `ding`, `engine`, `dundun`, `pop`, `whoosh`.
-- Музыка: **не из ElevenLabs Music** — генерация не прошла (на аккаунте не хватило кредитов: нужно 900). Вместо неё — собственный lo-fi бит 90 BPM (Rhodes Fmaj7–Em7–Dm9–Cmaj7, бочка/снейр/хэт, винил), сгенерирован скриптом `shared/tools/lofi.py`, без авторских прав. Под голосом приседает до ≈ −19 dB, в сцене 5 стихает ещё на 15 dB, в сцене 6 возвращается ярче.
+- Музыка: **ElevenLabs Music** (`/v1/music`, 42 с, instrumental), промпт: «Instrumental lo-fi chill-hop beat, 90 BPM, warm Rhodes electric piano chords, mellow boom-bap drums with soft swing, round sub bass, gentle vinyl crackle, relaxed late-evening city drive mood, steady loopable groove, no vocals, no build-ups». Приведена к −13 LUFS. Под голосом приседает до ≈ −19 dB, в сцене 5 стихает ещё на 15 dB, в сцене 6 возвращается ярче.
+- Запасной вариант без кредитов: `python3 shared/tools/lofi.py out.wav 42 90` — собственный процедурный lo-fi без авторских прав.
 
 ## Экспорт
 - `out/05-traffic_full.mp4` — голос + SFX + фон
