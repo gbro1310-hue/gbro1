@@ -4,11 +4,18 @@ import cairo
 import numpy as np
 
 W, H, FPS = 1080, 1920, 30
-DUR = 52.6
+DUR = 57.4
 OUT = sys.argv[1] if len(sys.argv) > 1 else "short.mp4"
 ONLY = float(sys.argv[2]) if len(sys.argv) > 2 else None  # render one still at time t
 
 WORDS = json.load(open("words.json"))
+WARP = json.load(open("timewarp.json"))  # (voice time, animation time) anchors
+
+def warp(t):
+    for (a0, b0), (a1, b1) in zip(WARP, WARP[1:]):
+        if t <= a1:
+            return b0 + (b1 - b0) * (t - a0) / (a1 - a0)
+    return WARP[-1][1] + (t - WARP[-1][0])
 
 # ---------- palette ----------
 def hexc(h):
@@ -761,13 +768,14 @@ def frame(t):
     # subtle cut "punch" at scene starts
     cuts = [2.7, 6.9, 11.5, 14.55, 17.5, 26.25, 35.6, 37.02, 40.82, 46.55]
     punch = 1.0
+    ta = warp(t)
     for c in cuts:
-        if 0 <= t - c < 0.22:
-            punch = 1.0 + 0.05 * (1 - (t - c) / 0.22)
+        if 0 <= ta - c < 0.22:
+            punch = 1.0 + 0.05 * (1 - (ta - c) / 0.22)
     drift = 1.0 + 0.01 * math.sin(t * 0.7)
     s = punch * drift
     cr.translate(540, 960); cr.scale(s, s); cr.translate(-540, -960)
-    draw_scene(cr, t)
+    draw_scene(cr, ta)
     cr.identity_matrix()
     vignette(cr)
     captions(cr, t)
