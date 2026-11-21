@@ -4,7 +4,7 @@ import cairo
 import numpy as np
 
 W, H, FPS = 1080, 1920, 30
-DUR = 60.2
+DUR = 55.7
 OUT = sys.argv[1] if len(sys.argv) > 1 else "short.mp4"
 ONLY = float(sys.argv[2]) if len(sys.argv) > 2 else None  # render one still at time t
 
