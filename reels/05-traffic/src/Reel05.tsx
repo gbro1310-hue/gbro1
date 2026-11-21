@@ -131,9 +131,9 @@ export const Reel05: React.FC<Reel05Props> = ({ withMusic, showSafeZones }) => {
 
       <Captions words={TL.words} accent={ACCENT} y={1300} hideBetween={[[0, 0.62]]} />
 
-      {/* хэндл канала */}
+      {/* водяной знак */}
       <div style={{ position: "absolute", left: safe.left, top: 1920 - safe.bottom - 60, fontFamily: fonts.body, fontWeight: 700, fontSize: 32, color: colors.muted, opacity: 0.75 }}>
-        @bishkek.inside
+        bishkek.motion
       </div>
 
       {showSafeZones ? <SafeZones /> : null}

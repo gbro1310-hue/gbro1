@@ -1,6 +1,6 @@
 # Бишкек изнутри — Reels на Remotion
 
-Один Remotion-проект на все ролики канала @bishkek.inside.
+Один Remotion-проект на все ролики канала (водяной знак в видео — bishkek.motion).
 
 ```
 reels/
