@@ -1,2 +1,8 @@
 __pycache__/
 short01/thumbnail.png
+long01/thumbnail.png
+long01/chunk_*.mp4
+long01/chunks.txt
+long01/tts_raw.json
+long01/voice_raw.mp3
+long01/cut_filter.txt
