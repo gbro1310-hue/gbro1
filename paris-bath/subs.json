@@ -1,0 +1,158 @@
+[
+{
+"t": 0,
+"e": 1.875,
+"sub": "Paris, twelve ninety-two.",
+"out": 1.849
+},
+{
+"t": 1.799,
+"e": 2.867,
+"sub": "It is Saturday,",
+"out": 2.841
+},
+{
+"t": 2.791,
+"e": 4.717,
+"sub": "and you are going to the baths.",
+"out": 5.317
+},
+{
+"t": 5.427,
+"e": 7.461,
+"sub": "Not the river. A bathhouse.",
+"out": 7.436
+},
+{
+"t": 7.386,
+"e": 9.662,
+"sub": "This city has at least two dozen.",
+"out": 10.262
+},
+{
+"t": 10.373,
+"e": 13.061,
+"sub": "But nobody may cry that the water is hot",
+"out": 13.083
+},
+{
+"t": 13.033,
+"e": 15.685,
+"sub": "until it is day. That is the law.",
+"out": 15.659
+},
+{
+"t": 15.609,
+"e": 17.209,
+"sub": "Whoever gets up in the dark",
+"out": 17.22
+},
+{
+"t": 17.17,
+"e": 18.383,
+"sub": "to answer that cry",
+"out": 18.429
+},
+{
+"t": 18.379,
+"e": 20.136,
+"sub": "walks into a dark street,",
+"out": 20.11
+},
+{
+"t": 20.06,
+"e": 21.794,
+"sub": "and the street is the danger.",
+"out": 22.394
+},
+{
+"t": 22.468,
+"e": 24.676,
+"sub": "So you wait for first light.",
+"out": 24.65
+},
+{
+"t": 24.6,
+"e": 26.804,
+"sub": "Then the crier comes down your street:",
+"out": 26.778
+},
+{
+"t": 26.728,
+"e": 27.99,
+"sub": "the baths are hot.",
+"out": 28.59
+},
+{
+"t": 28.664,
+"e": 30.758,
+"sub": "Two deniers buys the steam room:",
+"out": 30.733
+},
+{
+"t": 30.683,
+"e": 33.613,
+"sub": "wooden benches, a furnace behind the wall,",
+"out": 33.586
+},
+{
+"t": 33.536,
+"e": 34.834,
+"sub": "air you can see.",
+"out": 34.929
+},
+{
+"t": 34.879,
+"e": 36.745,
+"sub": "Four deniers buys a tub.",
+"out": 37.345
+},
+{
+"t": 37.444,
+"e": 38.728,
+"sub": "Tomorrow is Sunday.",
+"out": 38.727
+},
+{
+"t": 38.677,
+"e": 40.929,
+"sub": "On Sunday, no bathhouse in Paris",
+"out": 40.952
+},
+{
+"t": 40.902,
+"e": 42.235,
+"sub": "may light its fire.",
+"out": 42.835
+},
+{
+"t": 42.909,
+"e": 45.15,
+"sub": "So today you sit in the steam,",
+"out": 45.149
+},
+{
+"t": 45.099,
+"e": 47.097,
+"sub": "beside people from the market,",
+"out": 47.096
+},
+{
+"t": 47.046,
+"e": 49.916,
+"sub": "and a week of smoke comes off your skin.",
+"out": 50.516
+},
+{
+"t": 50.597,
+"e": 52.318,
+"sub": "Medieval people washed.",
+"out": 52.365
+},
+{
+"t": 52.315,
+"e": 54.434,
+"sub": "They just had to wait for daylight.",
+"out": 55.034
+}
+]

@@ -17,3 +17,8 @@ peasant-oil/out/
 peasant-oil/stills/
 peasant-oil/voice.wav
 peasant-oil/*.mp4
+paris-bath/out/
+paris-bath/stills/
+paris-bath/voice.wav
+paris-bath/voice/voice_raw.mp3
+paris-bath/fonts/*.woff2

@@ -1,0 +1,6 @@
+The Baths Are Hot — Ordinary Lives Short
+Voice: Ordinary Lives channel voice (ElevenLabs, eleven_multilingual_v2).
+Picture: three.js, code from the Lemo-Opuscar library's 2.5D Pixel Art style (px.js, kit.js, fx.js, post_ts.js adapted; sets, characters, UI written for this film).
+Fonts: Cinzel, Cormorant Garamond (SIL Open Font License, see fonts/OFL-*.txt). Font files are fetched from Google Fonts (gitignored).
+Music and sound: synthesised in mix.py (plucked lute, pad, bells, ambience, foley).
+Script checked with vidIQ's script guidance. Facts: Étienne Boileau, Livre des métiers (bathhouse-keepers' statutes, c. 1268); Paris tax roll of 1292 via secondary sources.
