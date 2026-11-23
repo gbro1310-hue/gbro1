@@ -23,3 +23,10 @@ paris-bath/voice.wav
 paris-bath/voice/voice_raw.mp3
 paris-bath/fonts/*.woff2
 paris-bath/*.mp4
+
+apprentice/out/
+apprentice/stills/
+apprentice/voice.wav
+apprentice/voice/voice_raw.mp3
+apprentice/fonts/*.woff2
+apprentice/*.mp4

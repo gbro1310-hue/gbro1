@@ -1,0 +1,992 @@
+[
+{
+"t": 0.9,
+"e": 2.604,
+"sub": "Paris, thirteen oh three.",
+"out": 2.578
+},
+{
+"t": 2.528,
+"e": 3.968,
+"sub": "You are twelve years old,",
+"out": 3.942
+},
+{
+"t": 3.892,
+"e": 6.601,
+"sub": "and this morning your father is giving you away.",
+"out": 7.201
+},
+{
+"t": 7.315,
+"e": 8.433,
+"sub": "Not forever.",
+"out": 8.598
+},
+{
+"t": 8.548,
+"e": 10.356,
+"sub": "For eight years.",
+"out": 10.956
+},
+{
+"t": 11.045,
+"e": 13.958,
+"sub": "He walks you through streets you have never been down,",
+"out": 13.956
+},
+{
+"t": 13.906,
+"e": 16.664,
+"sub": "to a narrow house with a wide front room.",
+"out": 16.709
+},
+{
+"t": 16.659,
+"e": 19.524,
+"sub": "In that room stands a wooden frame as long as",
+"out": 19.546
+},
+{
+"t": 19.496,
+"e": 22.708,
+"sub": "a door, and across it someone has stretched a piece",
+"out": 22.706
+},
+{
+"t": 22.656,
+"e": 23.426,
+"sub": "of silk.",
+"out": 23.436
+},
+{
+"t": 23.386,
+"e": 24.898,
+"sub": "A man is bent over it,",
+"out": 24.896
+},
+{
+"t": 24.846,
+"e": 28.034,
+"sub": "pushing a needle through with thread that catches the light.",
+"out": 28.056
+},
+{
+"t": 28.006,
+"e": 28.74,
+"sub": "Gold.",
+"out": 29.34
+},
+{
+"t": 29.406,
+"e": 31.721,
+"sub": "That man is your new master.",
+"out": 31.718
+},
+{
+"t": 31.668,
+"e": 33.91,
+"sub": "From today, you live in his house,",
+"out": 33.92
+},
+{
+"t": 33.87,
+"e": 35.467,
+"sub": "you eat at his table,",
+"out": 35.441
+},
+{
+"t": 35.391,
+"e": 37.119,
+"sub": "and you learn his trade.",
+"out": 37.719
+},
+{
+"t": 37.821,
+"e": 39.416,
+"sub": "So let us put you in it.",
+"out": 40.016
+},
+{
+"t": 40.119,
+"e": 43.654,
+"sub": "The first thing to understand is that nobody in Paris",
+"out": 43.676
+},
+{
+"t": 43.626,
+"e": 45.269,
+"sub": "simply hires a boy.",
+"out": 45.244
+},
+{
+"t": 45.194,
+"e": 48.118,
+"sub": "There is a contract, and there are rules about the",
+"out": 48.115
+},
+{
+"t": 48.065,
+"e": 49.027,
+"sub": "contract.",
+"out": 49.627
+},
+{
+"t": 49.693,
+"e": 52.965,
+"sub": "A generation ago, in the time of King Louis,",
+"out": 52.962
+},
+{
+"t": 52.912,
+"e": 55.909,
+"sub": "the provost of Paris, \u00c9tienne Boileau,",
+"out": 55.908
+},
+{
+"t": 55.858,
+"e": 58.949,
+"sub": "had the rules of the city's trades written down.",
+"out": 58.959
+},
+{
+"t": 58.909,
+"e": 60.869,
+"sub": "Over a hundred trades.",
+"out": 60.866
+},
+{
+"t": 60.816,
+"e": 62.736,
+"sub": "Each one has its own rules,",
+"out": 62.71
+},
+{
+"t": 62.66,
+"e": 65.536,
+"sub": "and each one has sworn men called jur\u00e9s,",
+"out": 65.534
+},
+{
+"t": 65.484,
+"e": 68.779,
+"sub": "whose job is to make sure those rules are kept.",
+"out": 69.379
+},
+{
+"t": 69.47,
+"e": 71.269,
+"sub": "Before your contract is made,",
+"out": 71.243
+},
+{
+"t": 71.193,
+"e": 72.837,
+"sub": "the jur\u00e9s ask questions.",
+"out": 72.847
+},
+{
+"t": 72.797,
+"e": 73.951,
+"sub": "Not about you.",
+"out": 73.96
+},
+{
+"t": 73.91,
+"e": 74.824,
+"sub": "About him.",
+"out": 74.989
+},
+{
+"t": 74.939,
+"e": 76.703,
+"sub": "Can he actually do the work?",
+"out": 76.702
+},
+{
+"t": 76.652,
+"e": 78.822,
+"sub": "Does he have the money to feed and train an",
+"out": 78.831
+},
+{
+"t": 78.781,
+"e": 80.377,
+"sub": "apprentice for years?",
+"out": 80.387
+},
+{
+"t": 80.337,
+"e": 82.711,
+"sub": "A master who is bad at his craft,",
+"out": 82.71
+},
+{
+"t": 82.66,
+"e": 85.572,
+"sub": "or too poor, is not allowed to take you.",
+"out": 86.172
+},
+{
+"t": 86.238,
+"e": 88.134,
+"sub": "And he can only take one of you.",
+"out": 88.131
+},
+{
+"t": 88.081,
+"e": 90.934,
+"sub": "A master may train his own children without limit.",
+"out": 90.909
+},
+{
+"t": 90.859,
+"e": 94.322,
+"sub": "But a boy from another family usually gets one place",
+"out": 94.319
+},
+{
+"t": 94.269,
+"e": 95.41,
+"sub": "in a workshop.",
+"out": 95.711
+},
+{
+"t": 95.661,
+"e": 96.24,
+"sub": "One.",
+"out": 96.37
+},
+{
+"t": 96.32,
+"e": 98.531,
+"sub": "You are that place.",
+"out": 99.131
+},
+{
+"t": 99.197,
+"e": 101.99,
+"sub": "The contract is made in front of witnesses:",
+"out": 102.146
+},
+{
+"t": 102.096,
+"e": 104.865,
+"sub": "other masters, and men who work in the trade.",
+"out": 104.958
+},
+{
+"t": 104.908,
+"e": 106.804,
+"sub": "Everyone hears the terms.",
+"out": 107.404
+},
+{
+"t": 107.477,
+"e": 109.756,
+"sub": "Here is the part nobody tells you.",
+"out": 109.814
+},
+{
+"t": 109.764,
+"e": 111.791,
+"sub": "Your family pays for this.",
+"out": 111.956
+},
+{
+"t": 111.906,
+"e": 113.849,
+"sub": "The apprentice does not earn.",
+"out": 113.859
+},
+{
+"t": 113.809,
+"e": 115.513,
+"sub": "The apprentice costs.",
+"out": 115.487
+},
+{
+"t": 115.437,
+"e": 118.481,
+"sub": "In some trades, the shorter the term your family asks",
+"out": 118.492
+},
+{
+"t": 118.442,
+"e": 120.301,
+"sub": "for, the more they have to pay.",
+"out": 120.311
+},
+{
+"t": 120.261,
+"e": 122.012,
+"sub": "Sign for a long term,",
+"out": 122.022
+},
+{
+"t": 121.972,
+"e": 124.179,
+"sub": "and it can cost almost nothing,",
+"out": 124.153
+},
+{
+"t": 124.103,
+"e": 127.159,
+"sub": "because your master gets years of your work back.",
+"out": 127.759
+},
+{
+"t": 127.832,
+"e": 129.715,
+"sub": "Your trade is embroidery.",
+"out": 129.809
+},
+{
+"t": 129.759,
+"e": 132.923,
+"sub": "And the embroiderers of Paris have just been given new",
+"out": 132.945
+},
+{
+"t": 132.895,
+"e": 134.969,
+"sub": "statutes, this very year.",
+"out": 134.968
+},
+{
+"t": 134.918,
+"e": 137.184,
+"sub": "They set the minimum for an apprentice.",
+"out": 137.182
+},
+{
+"t": 137.132,
+"e": 138.129,
+"sub": "Eight years.",
+"out": 138.729
+},
+{
+"t": 138.802,
+"e": 139.56,
+"sub": "So.",
+"out": 139.905
+},
+{
+"t": 139.855,
+"e": 140.876,
+"sub": "Eight years.",
+"out": 141.476
+},
+{
+"t": 141.549,
+"e": 144.104,
+"sub": "Your first day starts when it gets light.",
+"out": 144.305
+},
+{
+"t": 144.255,
+"e": 145.397,
+"sub": "Not at an hour.",
+"out": 145.371
+},
+{
+"t": 145.321,
+"e": 147.299,
+"sub": "There is no clock in this house.",
+"out": 147.274
+},
+{
+"t": 147.224,
+"e": 148.58,
+"sub": "There is a window.",
+"out": 149.18
+},
+{
+"t": 149.27,
+"e": 150.687,
+"sub": "In a trade like this,",
+"out": 150.696
+},
+{
+"t": 150.646,
+"e": 152.793,
+"sub": "the working day is the daylight.",
+"out": 152.815
+},
+{
+"t": 152.765,
+"e": 155.247,
+"sub": "Work starts when there is enough light to see a",
+"out": 155.269
+},
+{
+"t": 155.219,
+"e": 157.616,
+"sub": "thread, and it stops when there is not.",
+"out": 157.615
+},
+{
+"t": 157.565,
+"e": 159.735,
+"sub": "In June, that is a long day.",
+"out": 159.709
+},
+{
+"t": 159.659,
+"e": 161.782,
+"sub": "In December, it is a short one,",
+"out": 161.756
+},
+{
+"t": 161.706,
+"e": 164.499,
+"sub": "and nothing anyone does will make it longer.",
+"out": 165.099
+},
+{
+"t": 165.189,
+"e": 168.425,
+"sub": "Because here is the rule that tells you everything about",
+"out": 168.423
+},
+{
+"t": 168.373,
+"e": 169.178,
+"sub": "this job.",
+"out": 169.153
+},
+{
+"t": 169.103,
+"e": 173.021,
+"sub": "The embroiderers of Paris are forbidden to work by candlelight.",
+"out": 173.621
+},
+{
+"t": 173.723,
+"e": 176.324,
+"sub": "Not because your master is kind.",
+"out": 176.624
+},
+{
+"t": 176.574,
+"e": 179.714,
+"sub": "Because the provost has decided that work done by a",
+"out": 179.737
+},
+{
+"t": 179.687,
+"e": 182.552,
+"sub": "candle is worse than work done by day,",
+"out": 182.708
+},
+{
+"t": 182.658,
+"e": 186.24,
+"sub": "and Paris embroidery is not allowed to be worse.",
+"out": 186.84
+},
+{
+"t": 186.942,
+"e": 190.262,
+"sub": "Night work is banned in many trades in this city.",
+"out": 190.607
+},
+{
+"t": 190.557,
+"e": 192.596,
+"sub": "A candle hides mistakes.",
+"out": 192.941
+},
+{
+"t": 192.891,
+"e": 194.332,
+"sub": "Daylight shows them.",
+"out": 194.569
+},
+{
+"t": 194.519,
+"e": 197.742,
+"sub": "And the rules care very much about what other people",
+"out": 197.741
+},
+{
+"t": 197.691,
+"e": 198.593,
+"sub": "will see.",
+"out": 199.193
+},
+{
+"t": 199.266,
+"e": 201.771,
+"sub": "So you will not touch the silk today.",
+"out": 202.072
+},
+{
+"t": 202.022,
+"e": 204.527,
+"sub": "You will not touch it for a long time.",
+"out": 204.872
+},
+{
+"t": 204.822,
+"e": 206.274,
+"sub": "You fetch things.",
+"out": 206.512
+},
+{
+"t": 206.462,
+"e": 207.962,
+"sub": "You wind thread.",
+"out": 208.307
+},
+{
+"t": 208.257,
+"e": 210.547,
+"sub": "And mostly, you watch.",
+"out": 210.848
+},
+{
+"t": 210.798,
+"e": 213.543,
+"sub": "Watching is the work of the first year.",
+"out": 214.143
+},
+{
+"t": 214.173,
+"e": 215.818,
+"sub": "Your week has a shape.",
+"out": 216.118
+},
+{
+"t": 216.068,
+"e": 217.569,
+"sub": "Six days at the frame,",
+"out": 217.771
+},
+{
+"t": 217.721,
+"e": 220.537,
+"sub": "and then Sunday, when nobody works.",
+"out": 220.69
+},
+{
+"t": 220.64,
+"e": 222.871,
+"sub": "Feast days, nobody works.",
+"out": 223.001
+},
+{
+"t": 222.951,
+"e": 225.696,
+"sub": "The church calendar is the calendar of work.",
+"out": 226.296
+},
+{
+"t": 226.326,
+"e": 228.018,
+"sub": "And Saturday ends early.",
+"out": 228.183
+},
+{
+"t": 228.133,
+"e": 229.801,
+"sub": "In most trades in Paris,",
+"out": 229.799
+},
+{
+"t": 229.749,
+"e": 232.985,
+"sub": "work stops on Saturday at the first bell of vespers,",
+"out": 232.959
+},
+{
+"t": 232.909,
+"e": 234.397,
+"sub": "in the late afternoon.",
+"out": 234.443
+},
+{
+"t": 234.393,
+"e": 236.575,
+"sub": "When that bell rings across the roofs,",
+"out": 236.574
+},
+{
+"t": 236.524,
+"e": 240.119,
+"sub": "the needle goes down, wherever it is in the stitch.",
+"out": 240.719
+},
+{
+"t": 240.808,
+"e": 243.745,
+"sub": "Then, one morning, there is a knock at the door.",
+"out": 244.345
+},
+{
+"t": 244.435,
+"e": 245.337,
+"sub": "Jur\u00e9s.",
+"out": 245.359
+},
+{
+"t": 245.309,
+"e": 248.509,
+"sub": "Men from the trade, sworn to inspect.",
+"out": 248.483
+},
+{
+"t": 248.433,
+"e": 251.274,
+"sub": "They have the right to walk into any workshop of",
+"out": 251.272
+},
+{
+"t": 251.222,
+"e": 253.201,
+"sub": "their craft and look at the work.",
+"out": 253.175
+},
+{
+"t": 253.125,
+"e": 254.003,
+"sub": "The thread.",
+"out": 254.001
+},
+{
+"t": 253.951,
+"e": 255.104,
+"sub": "The materials.",
+"out": 255.126
+},
+{
+"t": 255.076,
+"e": 256.073,
+"sub": "The finish.",
+"out": 256.673
+},
+{
+"t": 256.739,
+"e": 259.413,
+"sub": "If something is wrong, they can seize it.",
+"out": 259.387
+},
+{
+"t": 259.337,
+"e": 261.329,
+"sub": "The master pays a fine.",
+"out": 261.303
+},
+{
+"t": 261.253,
+"e": 263.938,
+"sub": "A bad piece is not a private mistake.",
+"out": 263.912
+},
+{
+"t": 263.862,
+"e": 265.063,
+"sub": "It is evidence.",
+"out": 265.663
+},
+{
+"t": 265.729,
+"e": 267.133,
+"sub": "This is not a raid.",
+"out": 267.108
+},
+{
+"t": 267.058,
+"e": 269.575,
+"sub": "This is the trade doing its job.",
+"out": 269.573
+},
+{
+"t": 269.523,
+"e": 272.496,
+"sub": "Every piece that leaves this house carries the name of",
+"out": 272.542
+},
+{
+"t": 272.492,
+"e": 274.637,
+"sub": "every embroiderer in Paris.",
+"out": 274.672
+},
+{
+"t": 274.622,
+"e": 276.337,
+"sub": "If a buyer is cheated here,",
+"out": 276.335
+},
+{
+"t": 276.285,
+"e": 278.827,
+"sub": "he will not trust the next workshop either.",
+"out": 279.427
+},
+{
+"t": 279.493,
+"e": 282.142,
+"sub": "Your master stands very still while they look.",
+"out": 282.152
+},
+{
+"t": 282.102,
+"e": 284.189,
+"sub": "You learn something about him that day.",
+"out": 284.789
+},
+{
+"t": 284.862,
+"e": 288.306,
+"sub": "The years pass the way years do in a workshop.",
+"out": 288.304
+},
+{
+"t": 288.254,
+"e": 290.7,
+"sub": "Slowly, then all at once.",
+"out": 290.697
+},
+{
+"t": 290.647,
+"e": 293.105,
+"sub": "One day you are allowed to hold the needle.",
+"out": 293.079
+},
+{
+"t": 293.029,
+"e": 295.584,
+"sub": "Then to work a plain part of the background.",
+"out": 295.557
+},
+{
+"t": 295.507,
+"e": 298.539,
+"sub": "Then a part someone will actually look at.",
+"out": 299.139
+},
+{
+"t": 299.229,
+"e": 301.005,
+"sub": "And at the end of eight years,",
+"out": 301.098
+},
+{
+"t": 301.048,
+"e": 302.633,
+"sub": "you are twenty.",
+"out": 302.63
+},
+{
+"t": 302.58,
+"e": 304.069,
+"sub": "You are not a master.",
+"out": 304.068
+},
+{
+"t": 304.018,
+"e": 305.41,
+"sub": "You are a journeyman.",
+"out": 306.01
+},
+{
+"t": 306.076,
+"e": 308.474,
+"sub": "A journeyman is paid by the day.",
+"out": 308.472
+},
+{
+"t": 308.422,
+"e": 311.442,
+"sub": "He can work for any master who will hire him.",
+"out": 311.44
+},
+{
+"t": 311.39,
+"e": 313.13,
+"sub": "For the first time in your life,",
+"out": 313.127
+},
+{
+"t": 313.077,
+"e": 315.727,
+"sub": "you can leave a house because you want to.",
+"out": 316.327
+},
+{
+"t": 316.393,
+"e": 318.468,
+"sub": "To become a master yourself,",
+"out": 318.49
+},
+{
+"t": 318.44,
+"e": 320.263,
+"sub": "you need three things.",
+"out": 320.428
+},
+{
+"t": 320.378,
+"e": 322.921,
+"sub": "The skill, which you now have.",
+"out": 322.93
+},
+{
+"t": 322.88,
+"e": 325.255,
+"sub": "The money to set up your own workshop,",
+"out": 325.228
+},
+{
+"t": 325.178,
+"e": 327.325,
+"sub": "which you almost certainly do not.",
+"out": 327.298
+},
+{
+"t": 327.248,
+"e": 329.838,
+"sub": "And the oath, sworn before the jur\u00e9s,",
+"out": 329.837
+},
+{
+"t": 329.787,
+"e": 332.388,
+"sub": "that you will keep the rules of the trade.",
+"out": 332.386
+},
+{
+"t": 332.336,
+"e": 335.165,
+"sub": "In some trades, you also have to buy the right",
+"out": 335.175
+},
+{
+"t": 335.125,
+"e": 336.338,
+"sub": "to work at all.",
+"out": 336.938
+},
+{
+"t": 337.052,
+"e": 340.228,
+"sub": "So most journeymen stay journeymen for a long time.",
+"out": 340.321
+},
+{
+"t": 340.271,
+"e": 341.772,
+"sub": "Some of them, forever.",
+"out": 342.372
+},
+{
+"t": 342.486,
+"e": 345.613,
+"sub": "But think back to the twelve-year-old who walked into this",
+"out": 345.659
+},
+{
+"t": 345.609,
+"e": 346.248,
+"sub": "room.",
+"out": 346.378
+},
+{
+"t": 346.328,
+"e": 348.809,
+"sub": "You could not thread a needle with gold.",
+"out": 349.011
+},
+{
+"t": 348.961,
+"e": 351.562,
+"sub": "You did not know what a jur\u00e9 was.",
+"out": 352.162
+},
+{
+"t": 352.276,
+"e": 355.153,
+"sub": "Now you know what Paris embroidery is worth,",
+"out": 355.354
+},
+{
+"t": 355.304,
+"e": 356.374,
+"sub": "and why.",
+"out": 356.974
+},
+{
+"t": 357.075,
+"e": 359.187,
+"sub": "And every evening, for eight years,",
+"out": 359.16
+},
+{
+"t": 359.11,
+"e": 360.503,
+"sub": "when the window went grey,",
+"out": 360.501
+},
+{
+"t": 360.451,
+"e": 362.095,
+"sub": "you put the needle down.",
+"out": 362.188
+},
+{
+"t": 362.138,
+"e": 363.687,
+"sub": "Nobody lit a candle.",
+"out": 363.66
+},
+{
+"t": 363.61,
+"e": 365.936,
+"sub": "Not because candles were expensive.",
+"out": 365.911
+},
+{
+"t": 365.861,
+"e": 367.888,
+"sub": "Because that was the law.",
+"out": 368.488
+},
+{
+"t": 368.554,
+"e": 371.035,
+"sub": "That is what an ordinary life is.",
+"out": 371.057
+},
+{
+"t": 371.007,
+"e": 371.921,
+"sub": "Not small.",
+"out": 371.931
+},
+{
+"t": 371.881,
+"e": 374.805,
+"sub": "Just made, very carefully, in daylight.",
+"out": 375.405
+},
+{
+"t": 375.472,
+"e": 377.079,
+"sub": "And if you want more of these,",
+"out": 377.089
+},
+{
+"t": 377.039,
+"e": 379.198,
+"sub": "one ordinary life at a time,",
+"out": 379.22
+},
+{
+"t": 379.17,
+"e": 382.562,
+"sub": "subscribing is the whole business model of this channel.",
+"out": 383.162
+}
+]

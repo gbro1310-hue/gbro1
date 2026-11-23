@@ -1,0 +1,6 @@
+Eight Years of Daylight — Ordinary Lives (long-form)
+Voice: Ordinary Lives channel voice (ElevenLabs, eleven_multilingual_v2).
+Picture: three.js, code from the Lemo-Opuscar library's 2.5D Pixel Art style (px.js, kit.js, fx.js, post_ts.js adapted; street, workshop, characters, UI written for this film).
+Fonts: Cinzel, Cormorant Garamond (SIL Open Font License, see fonts/OFL-*.txt). Font files are fetched from Google Fonts (gitignored).
+Music and sound: synthesised in mix.py (plucked lute, pad, bells, ambience, foley).
+Script length and voice checked with vidIQ's script tools. Facts: see TREATMENT.md (secondary sources on the Livre des métiers and the 1303 embroiderers' statutes).

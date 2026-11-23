@@ -1,0 +1,659 @@
+1
+00:00:00,900 --> 00:00:02,578
+Paris, thirteen oh three.
+
+2
+00:00:02,528 --> 00:00:03,942
+You are twelve years old,
+
+3
+00:00:03,892 --> 00:00:07,201
+and this morning your father is giving you away.
+
+4
+00:00:07,315 --> 00:00:08,598
+Not forever.
+
+5
+00:00:08,548 --> 00:00:10,956
+For eight years.
+
+6
+00:00:11,045 --> 00:00:13,956
+He walks you through streets you have never been down,
+
+7
+00:00:13,906 --> 00:00:16,709
+to a narrow house with a wide front room.
+
+8
+00:00:16,659 --> 00:00:19,546
+In that room stands a wooden frame as long as
+
+9
+00:00:19,496 --> 00:00:22,706
+a door, and across it someone has stretched a piece
+
+10
+00:00:22,656 --> 00:00:23,436
+of silk.
+
+11
+00:00:23,386 --> 00:00:24,896
+A man is bent over it,
+
+12
+00:00:24,846 --> 00:00:28,056
+pushing a needle through with thread that catches the light.
+
+13
+00:00:28,006 --> 00:00:29,340
+Gold.
+
+14
+00:00:29,406 --> 00:00:31,718
+That man is your new master.
+
+15
+00:00:31,668 --> 00:00:33,920
+From today, you live in his house,
+
+16
+00:00:33,870 --> 00:00:35,441
+you eat at his table,
+
+17
+00:00:35,391 --> 00:00:37,719
+and you learn his trade.
+
+18
+00:00:37,821 --> 00:00:40,016
+So let us put you in it.
+
+19
+00:00:40,119 --> 00:00:43,676
+The first thing to understand is that nobody in Paris
+
+20
+00:00:43,626 --> 00:00:45,244
+simply hires a boy.
+
+21
+00:00:45,194 --> 00:00:48,115
+There is a contract, and there are rules about the
+
+22
+00:00:48,065 --> 00:00:49,627
+contract.
+
+23
+00:00:49,693 --> 00:00:52,962
+A generation ago, in the time of King Louis,
+
+24
+00:00:52,912 --> 00:00:55,908
+the provost of Paris, Étienne Boileau,
+
+25
+00:00:55,858 --> 00:00:58,959
+had the rules of the city's trades written down.
+
+26
+00:00:58,909 --> 00:01:00,866
+Over a hundred trades.
+
+27
+00:01:00,816 --> 00:01:02,710
+Each one has its own rules,
+
+28
+00:01:02,660 --> 00:01:05,534
+and each one has sworn men called jurés,
+
+29
+00:01:05,484 --> 00:01:09,379
+whose job is to make sure those rules are kept.
+
+30
+00:01:09,470 --> 00:01:11,243
+Before your contract is made,
+
+31
+00:01:11,193 --> 00:01:12,847
+the jurés ask questions.
+
+32
+00:01:12,797 --> 00:01:13,960
+Not about you.
+
+33
+00:01:13,910 --> 00:01:14,989
+About him.
+
+34
+00:01:14,939 --> 00:01:16,702
+Can he actually do the work?
+
+35
+00:01:16,652 --> 00:01:18,831
+Does he have the money to feed and train an
+
+36
+00:01:18,781 --> 00:01:20,387
+apprentice for years?
+
+37
+00:01:20,337 --> 00:01:22,710
+A master who is bad at his craft,
+
+38
+00:01:22,660 --> 00:01:26,172
+or too poor, is not allowed to take you.
+
+39
+00:01:26,238 --> 00:01:28,131
+And he can only take one of you.
+
+40
+00:01:28,081 --> 00:01:30,909
+A master may train his own children without limit.
+
+41
+00:01:30,859 --> 00:01:34,319
+But a boy from another family usually gets one place
+
+42
+00:01:34,269 --> 00:01:35,711
+in a workshop.
+
+43
+00:01:35,661 --> 00:01:36,370
+One.
+
+44
+00:01:36,320 --> 00:01:39,131
+You are that place.
+
+45
+00:01:39,197 --> 00:01:42,146
+The contract is made in front of witnesses:
+
+46
+00:01:42,096 --> 00:01:44,958
+other masters, and men who work in the trade.
+
+47
+00:01:44,908 --> 00:01:47,404
+Everyone hears the terms.
+
+48
+00:01:47,477 --> 00:01:49,814
+Here is the part nobody tells you.
+
+49
+00:01:49,764 --> 00:01:51,956
+Your family pays for this.
+
+50
+00:01:51,906 --> 00:01:53,859
+The apprentice does not earn.
+
+51
+00:01:53,809 --> 00:01:55,487
+The apprentice costs.
+
+52
+00:01:55,437 --> 00:01:58,492
+In some trades, the shorter the term your family asks
+
+53
+00:01:58,442 --> 00:02:00,311
+for, the more they have to pay.
+
+54
+00:02:00,261 --> 00:02:02,022
+Sign for a long term,
+
+55
+00:02:01,972 --> 00:02:04,153
+and it can cost almost nothing,
+
+56
+00:02:04,103 --> 00:02:07,759
+because your master gets years of your work back.
+
+57
+00:02:07,832 --> 00:02:09,809
+Your trade is embroidery.
+
+58
+00:02:09,759 --> 00:02:12,945
+And the embroiderers of Paris have just been given new
+
+59
+00:02:12,895 --> 00:02:14,968
+statutes, this very year.
+
+60
+00:02:14,918 --> 00:02:17,182
+They set the minimum for an apprentice.
+
+61
+00:02:17,132 --> 00:02:18,729
+Eight years.
+
+62
+00:02:18,802 --> 00:02:19,905
+So.
+
+63
+00:02:19,855 --> 00:02:21,476
+Eight years.
+
+64
+00:02:21,549 --> 00:02:24,305
+Your first day starts when it gets light.
+
+65
+00:02:24,255 --> 00:02:25,371
+Not at an hour.
+
+66
+00:02:25,321 --> 00:02:27,274
+There is no clock in this house.
+
+67
+00:02:27,224 --> 00:02:29,180
+There is a window.
+
+68
+00:02:29,270 --> 00:02:30,696
+In a trade like this,
+
+69
+00:02:30,646 --> 00:02:32,815
+the working day is the daylight.
+
+70
+00:02:32,765 --> 00:02:35,269
+Work starts when there is enough light to see a
+
+71
+00:02:35,219 --> 00:02:37,615
+thread, and it stops when there is not.
+
+72
+00:02:37,565 --> 00:02:39,709
+In June, that is a long day.
+
+73
+00:02:39,659 --> 00:02:41,756
+In December, it is a short one,
+
+74
+00:02:41,706 --> 00:02:45,099
+and nothing anyone does will make it longer.
+
+75
+00:02:45,189 --> 00:02:48,423
+Because here is the rule that tells you everything about
+
+76
+00:02:48,373 --> 00:02:49,153
+this job.
+
+77
+00:02:49,103 --> 00:02:53,621
+The embroiderers of Paris are forbidden to work by candlelight.
+
+78
+00:02:53,723 --> 00:02:56,624
+Not because your master is kind.
+
+79
+00:02:56,574 --> 00:02:59,737
+Because the provost has decided that work done by a
+
+80
+00:02:59,687 --> 00:03:02,708
+candle is worse than work done by day,
+
+81
+00:03:02,658 --> 00:03:06,840
+and Paris embroidery is not allowed to be worse.
+
+82
+00:03:06,942 --> 00:03:10,607
+Night work is banned in many trades in this city.
+
+83
+00:03:10,557 --> 00:03:12,941
+A candle hides mistakes.
+
+84
+00:03:12,891 --> 00:03:14,569
+Daylight shows them.
+
+85
+00:03:14,519 --> 00:03:17,741
+And the rules care very much about what other people
+
+86
+00:03:17,691 --> 00:03:19,193
+will see.
+
+87
+00:03:19,266 --> 00:03:22,072
+So you will not touch the silk today.
+
+88
+00:03:22,022 --> 00:03:24,872
+You will not touch it for a long time.
+
+89
+00:03:24,822 --> 00:03:26,512
+You fetch things.
+
+90
+00:03:26,462 --> 00:03:28,307
+You wind thread.
+
+91
+00:03:28,257 --> 00:03:30,848
+And mostly, you watch.
+
+92
+00:03:30,798 --> 00:03:34,143
+Watching is the work of the first year.
+
+93
+00:03:34,173 --> 00:03:36,118
+Your week has a shape.
+
+94
+00:03:36,068 --> 00:03:37,771
+Six days at the frame,
+
+95
+00:03:37,721 --> 00:03:40,690
+and then Sunday, when nobody works.
+
+96
+00:03:40,640 --> 00:03:43,001
+Feast days, nobody works.
+
+97
+00:03:42,951 --> 00:03:46,296
+The church calendar is the calendar of work.
+
+98
+00:03:46,326 --> 00:03:48,183
+And Saturday ends early.
+
+99
+00:03:48,133 --> 00:03:49,799
+In most trades in Paris,
+
+100
+00:03:49,749 --> 00:03:52,959
+work stops on Saturday at the first bell of vespers,
+
+101
+00:03:52,909 --> 00:03:54,443
+in the late afternoon.
+
+102
+00:03:54,393 --> 00:03:56,574
+When that bell rings across the roofs,
+
+103
+00:03:56,524 --> 00:04:00,719
+the needle goes down, wherever it is in the stitch.
+
+104
+00:04:00,808 --> 00:04:04,345
+Then, one morning, there is a knock at the door.
+
+105
+00:04:04,435 --> 00:04:05,359
+Jurés.
+
+106
+00:04:05,309 --> 00:04:08,483
+Men from the trade, sworn to inspect.
+
+107
+00:04:08,433 --> 00:04:11,272
+They have the right to walk into any workshop of
+
+108
+00:04:11,222 --> 00:04:13,175
+their craft and look at the work.
+
+109
+00:04:13,125 --> 00:04:14,001
+The thread.
+
+110
+00:04:13,951 --> 00:04:15,126
+The materials.
+
+111
+00:04:15,076 --> 00:04:16,673
+The finish.
+
+112
+00:04:16,739 --> 00:04:19,387
+If something is wrong, they can seize it.
+
+113
+00:04:19,337 --> 00:04:21,303
+The master pays a fine.
+
+114
+00:04:21,253 --> 00:04:23,912
+A bad piece is not a private mistake.
+
+115
+00:04:23,862 --> 00:04:25,663
+It is evidence.
+
+116
+00:04:25,729 --> 00:04:27,108
+This is not a raid.
+
+117
+00:04:27,058 --> 00:04:29,573
+This is the trade doing its job.
+
+118
+00:04:29,523 --> 00:04:32,542
+Every piece that leaves this house carries the name of
+
+119
+00:04:32,492 --> 00:04:34,672
+every embroiderer in Paris.
+
+120
+00:04:34,622 --> 00:04:36,335
+If a buyer is cheated here,
+
+121
+00:04:36,285 --> 00:04:39,427
+he will not trust the next workshop either.
+
+122
+00:04:39,493 --> 00:04:42,152
+Your master stands very still while they look.
+
+123
+00:04:42,102 --> 00:04:44,789
+You learn something about him that day.
+
+124
+00:04:44,862 --> 00:04:48,304
+The years pass the way years do in a workshop.
+
+125
+00:04:48,254 --> 00:04:50,697
+Slowly, then all at once.
+
+126
+00:04:50,647 --> 00:04:53,079
+One day you are allowed to hold the needle.
+
+127
+00:04:53,029 --> 00:04:55,557
+Then to work a plain part of the background.
+
+128
+00:04:55,507 --> 00:04:59,139
+Then a part someone will actually look at.
+
+129
+00:04:59,229 --> 00:05:01,098
+And at the end of eight years,
+
+130
+00:05:01,048 --> 00:05:02,630
+you are twenty.
+
+131
+00:05:02,580 --> 00:05:04,068
+You are not a master.
+
+132
+00:05:04,018 --> 00:05:06,010
+You are a journeyman.
+
+133
+00:05:06,076 --> 00:05:08,472
+A journeyman is paid by the day.
+
+134
+00:05:08,422 --> 00:05:11,440
+He can work for any master who will hire him.
+
+135
+00:05:11,390 --> 00:05:13,127
+For the first time in your life,
+
+136
+00:05:13,077 --> 00:05:16,327
+you can leave a house because you want to.
+
+137
+00:05:16,393 --> 00:05:18,490
+To become a master yourself,
+
+138
+00:05:18,440 --> 00:05:20,428
+you need three things.
+
+139
+00:05:20,378 --> 00:05:22,930
+The skill, which you now have.
+
+140
+00:05:22,880 --> 00:05:25,228
+The money to set up your own workshop,
+
+141
+00:05:25,178 --> 00:05:27,298
+which you almost certainly do not.
+
+142
+00:05:27,248 --> 00:05:29,837
+And the oath, sworn before the jurés,
+
+143
+00:05:29,787 --> 00:05:32,386
+that you will keep the rules of the trade.
+
+144
+00:05:32,336 --> 00:05:35,175
+In some trades, you also have to buy the right
+
+145
+00:05:35,125 --> 00:05:36,938
+to work at all.
+
+146
+00:05:37,052 --> 00:05:40,321
+So most journeymen stay journeymen for a long time.
+
+147
+00:05:40,271 --> 00:05:42,372
+Some of them, forever.
+
+148
+00:05:42,486 --> 00:05:45,659
+But think back to the twelve-year-old who walked into this
+
+149
+00:05:45,609 --> 00:05:46,378
+room.
+
+150
+00:05:46,328 --> 00:05:49,011
+You could not thread a needle with gold.
+
+151
+00:05:48,961 --> 00:05:52,162
+You did not know what a juré was.
+
+152
+00:05:52,276 --> 00:05:55,354
+Now you know what Paris embroidery is worth,
+
+153
+00:05:55,304 --> 00:05:56,974
+and why.
+
+154
+00:05:57,075 --> 00:05:59,160
+And every evening, for eight years,
+
+155
+00:05:59,110 --> 00:06:00,501
+when the window went grey,
+
+156
+00:06:00,451 --> 00:06:02,188
+you put the needle down.
+
+157
+00:06:02,138 --> 00:06:03,660
+Nobody lit a candle.
+
+158
+00:06:03,610 --> 00:06:05,911
+Not because candles were expensive.
+
+159
+00:06:05,861 --> 00:06:08,488
+Because that was the law.
+
+160
+00:06:08,554 --> 00:06:11,057
+That is what an ordinary life is.
+
+161
+00:06:11,007 --> 00:06:11,931
+Not small.
+
+162
+00:06:11,881 --> 00:06:15,405
+Just made, very carefully, in daylight.
+
+163
+00:06:15,472 --> 00:06:17,089
+And if you want more of these,
+
+164
+00:06:17,039 --> 00:06:19,220
+one ordinary life at a time,
+
+165
+00:06:19,170 --> 00:06:23,162
+subscribing is the whole business model of this channel.
