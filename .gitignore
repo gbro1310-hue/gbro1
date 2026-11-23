@@ -13,3 +13,7 @@ peasant-winter/voice/tts_raw.json
 peasant-winter/voice/voice_raw.mp3
 peasant-winter/voice/cut_filter.txt
 peasant-winter/*.mp4
+peasant-oil/out/
+peasant-oil/stills/
+peasant-oil/voice.wav
+peasant-oil/*.mp4
