@@ -6,3 +6,10 @@ long01/chunks.txt
 long01/tts_raw.json
 long01/voice_raw.mp3
 long01/cut_filter.txt
+peasant-winter/out/
+peasant-winter/stills/
+peasant-winter/voice.wav
+peasant-winter/voice/tts_raw.json
+peasant-winter/voice/voice_raw.mp3
+peasant-winter/voice/cut_filter.txt
+peasant-winter/*.mp4
