@@ -1,0 +1,3 @@
+[0:a]atrim=0.000:58.192,asetpts=PTS-STARTPTS,afade=t=in:d=0.01,afade=t=out:st=58.182:d=0.01[s0];
+[0:a]atrim=58.243:65.980,asetpts=PTS-STARTPTS,afade=t=in:d=0.01,afade=t=out:st=7.727:d=0.01[s1];
+[s0][s1]concat=n=2:v=0:a=1[o]
