@@ -35,6 +35,6 @@ window.render = t => {
   post.dof.tiltAmt = Q.has('notilt') ? 0 : 12; post.dof.tiltC = c ?? .5; post.dof.tiltW = .09; post.dof.tiltF = .3; post.dof.maxCoc = Math.max(post.dof.maxCoc, 20);
   if (Q.has('nodof')) { post.dof.maxCoc = 0; post.dof.tiltAmt = 0; }
   post.composer.render();
-  drawOverlay(t);
+  if (!Q.has('noui')) drawOverlay(t); else document.getElementById('ov')?.getContext?.('2d')?.clearRect(0,0,1920,1080);
 };
 window.READY = true;
