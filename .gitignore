@@ -30,3 +30,8 @@ apprentice/voice.wav
 apprentice/voice/voice_raw.mp3
 apprentice/fonts/*.woff2
 apprentice/*.mp4
+candle/out/
+candle/voice.wav
+candle/voice/voice_raw.mp3
+candle/*.mp4
+candle/fonts/*.woff2

@@ -1,0 +1,140 @@
+[
+{
+"t": 0.9,
+"e": 2.579,
+"sub": "Paris, thirteen oh three.",
+"out": 2.575
+},
+{
+"t": 2.525,
+"e": 5.156,
+"sub": "It is getting dark, and you are twelve years old.",
+"out": 5.756
+},
+{
+"t": 5.806,
+"e": 7.914,
+"sub": "In front of you is a piece of silk with",
+"out": 7.934
+},
+{
+"t": 7.884,
+"e": 9.946,
+"sub": "gold thread in it, half finished.",
+"out": 9.919
+},
+{
+"t": 9.869,
+"e": 11.652,
+"sub": "On the table there is a candle.",
+"out": 11.626
+},
+{
+"t": 11.576,
+"e": 13.603,
+"sub": "You are not allowed to light it.",
+"out": 14.203
+},
+{
+"t": 14.253,
+"e": 16.536,
+"sub": "That is not your master being cheap.",
+"out": 16.625
+},
+{
+"t": 16.575,
+"e": 17.976,
+"sub": "It is the law.",
+"out": 17.972
+},
+{
+"t": 17.922,
+"e": 21.11,
+"sub": "This year the embroiderers of Paris wrote it into their",
+"out": 21.118
+},
+{
+"t": 21.068,
+"e": 23.56,
+"sub": "rules: no work by candlelight.",
+"out": 24.16
+},
+{
+"t": 24.203,
+"e": 25.998,
+"sub": "Here is the reason they give.",
+"out": 25.994
+},
+{
+"t": 25.944,
+"e": 29.516,
+"sub": "Work done by candlelight comes out worse than work done",
+"out": 29.512
+},
+{
+"t": 29.462,
+"e": 30.212,
+"sub": "by day.",
+"out": 30.186
+},
+{
+"t": 30.136,
+"e": 32.581,
+"sub": "A candle is yellow, and it moves.",
+"out": 32.589
+},
+{
+"t": 32.539,
+"e": 35.043,
+"sub": "A crooked stitch can look straight.",
+"out": 35.643
+},
+{
+"t": 35.693,
+"e": 37.186,
+"sub": "So when the light goes,",
+"out": 37.229
+},
+{
+"t": 37.179,
+"e": 38.626,
+"sub": "the needle goes down.",
+"out": 38.634
+},
+{
+"t": 38.584,
+"e": 40.971,
+"sub": "In June, that is a long day.",
+"out": 40.967
+},
+{
+"t": 40.917,
+"e": 43.142,
+"sub": "In December, it is a short one.",
+"out": 43.742
+},
+{
+"t": 43.792,
+"e": 46.179,
+"sub": "You will do this for eight years.",
+"out": 46.779
+},
+{
+"t": 46.822,
+"e": 49.418,
+"sub": "That is what an ordinary life is.",
+"out": 49.438
+},
+{
+"t": 49.388,
+"e": 50.452,
+"sub": "Not small.",
+"out": 50.576
+},
+{
+"t": 50.526,
+"e": 53.343,
+"sub": "Just made, very carefully, in daylight.",
+"out": 53.943
+}
+]
