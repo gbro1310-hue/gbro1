@@ -35,3 +35,8 @@ candle/voice.wav
 candle/voice/voice_raw.mp3
 candle/*.mp4
 candle/fonts/*.woff2
+loaf/out/
+loaf/voice.wav
+loaf/voice/voice_raw.mp3
+loaf/*.mp4
+loaf/fonts/*.woff2

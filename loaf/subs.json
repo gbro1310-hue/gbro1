@@ -1,0 +1,152 @@
+[
+{
+"t": 0.9,
+"e": 3.09,
+"sub": "London, the early thirteen hundreds.",
+"out": 3.063
+},
+{
+"t": 3.013,
+"e": 4.553,
+"sub": "You are a baker's boy,",
+"out": 4.526
+},
+{
+"t": 4.476,
+"e": 6.828,
+"sub": "and the loaf in your hands is a little too",
+"out": 6.859
+},
+{
+"t": 6.809,
+"e": 7.223,
+"sub": "light.",
+"out": 7.823
+},
+{
+"t": 7.889,
+"e": 8.941,
+"sub": "Not by much.",
+"out": 9.274
+},
+{
+"t": 9.224,
+"e": 10.451,
+"sub": "Nobody would notice.",
+"out": 11.051
+},
+{
+"t": 11.094,
+"e": 12.122,
+"sub": "Somebody will.",
+"out": 12.119
+},
+{
+"t": 12.069,
+"e": 14.015,
+"sub": "This city weighs its bread.",
+"out": 14.046
+},
+{
+"t": 13.996,
+"e": 16.883,
+"sub": "The price of grain sets how heavy a penny loaf",
+"out": 16.891
+},
+{
+"t": 16.841,
+"e": 19.739,
+"sub": "must be, and men come to the shop to check.",
+"out": 20.339
+},
+{
+"t": 20.382,
+"e": 23.384,
+"sub": "Here is what happens to a baker whose bread comes",
+"out": 23.416
+},
+{
+"t": 23.366,
+"e": 24.197,
+"sub": "up short.",
+"out": 24.205
+},
+{
+"t": 24.155,
+"e": 26.751,
+"sub": "The first time, he is tied to a hurdle and",
+"out": 26.771
+},
+{
+"t": 26.721,
+"e": 28.725,
+"sub": "dragged through the dirtiest streets,",
+"out": 28.698
+},
+{
+"t": 28.648,
+"e": 30.141,
+"sub": "where the most people are.",
+"out": 30.138
+},
+{
+"t": 30.088,
+"e": 32.266,
+"sub": "The light loaf hangs from his neck.",
+"out": 32.866
+},
+{
+"t": 32.874,
+"e": 35.112,
+"sub": "The second time, the pillory.",
+"out": 35.402
+},
+{
+"t": 35.352,
+"e": 38.401,
+"sub": "One hour, in front of everyone who buys from him.",
+"out": 39.001
+},
+{
+"t": 39.044,
+"e": 41.513,
+"sub": "The third time, they pull down his oven.",
+"out": 41.764
+},
+{
+"t": 41.714,
+"e": 43.869,
+"sub": "He never bakes in this city again.",
+"out": 44.469
+},
+{
+"t": 44.519,
+"e": 47.072,
+"sub": "So you put the loaf back on the scale.",
+"out": 47.255
+},
+{
+"t": 47.205,
+"e": 48.431,
+"sub": "You add dough.",
+"out": 49.031
+},
+{
+"t": 49.051,
+"e": 52.03,
+"sub": "That is what an ordinary life is.",
+"out": 52.32
+},
+{
+"t": 52.27,
+"e": 53.38,
+"sub": "Not small.",
+"out": 53.621
+},
+{
+"t": 53.571,
+"e": 56.399,
+"sub": "Just weighed, every single day.",
+"out": 56.999
+}
+]
