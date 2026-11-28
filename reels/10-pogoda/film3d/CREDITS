@@ -1,0 +1,8 @@
+«Погода Бишкека за день» — credits and licences
+
+Style & tooling: Lemo-Opuscar, style "Low-poly Isometric Island" — https://github.com/lemomo-ai/lemo-opuscar
+  Code helpers adapted from the library (synth_lib.py, render tools): MIT License, © SecondFirst Pty Ltd t/a LemoLab.
+Voice: ElevenLabs Text-to-Speech, voice "Lev Lavrin – Energetic Video Explainer", model eleven_multilingual_v2 (used under the account's ElevenLabs terms).
+Music & sound effects: synthesized in code for this film (music.py) — original, no samples.
+Font: Comfortaa (Johan Aakerlund), SIL Open Font License 1.1 — fonts.google.com/specimen/Comfortaa
+3D scene: built in code with three.js r170 (MIT) for this film (world.js).
